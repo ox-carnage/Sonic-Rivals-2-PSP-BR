@@ -50,33 +50,33 @@
 Esse projeto foi iniciado em 03/02/2016, o projeto teve início mais por conta de meu filho, que adorou esse jogo, mesmo não sabendo ler tive a iniciativa de traduzi-lo.
 O jogo não teve nenhuma dificuldade referente a tradução e e até possível efetuar uma dublagem, porem isso fica para o futuro.
 
-# ROMHACKING
+# Romhacking
 
-MODO HISTÓRIA
+MODO HISTÓRIA<br>
 Toda a história está traduzida 100%, restando apenas a revisão ortográfica
 
-MODO MULTIJOGADOR
+Modo Multijogador<br>
 Todos os jogos desse modo estão traduzidos, restando apenas a revisão ortográfica
 
-MODO ONLINE
+Modo Online<br>
 Toda parte contextual e gráfica do modo online estão traduzidos e revisado.
 
-COLEÇÃO DE CARTAS
+Coleção de Cartas<br>
 Todas as cartas do jogo um total de 150, foram traduzidas, restando apenas a correção ortográfica e alinhamento das frases.
 
-# REVISÃO
-A revisão será baseada nos seguintes itens;
-Possíveis erros ortográficos
-Erros de concordâncias
-Alinhamento das frases nas caixas de diálogos
+# Revisão
+A revisão será baseada nos seguintes itens;<br>
+Possíveis erros ortográficos<br>
+Erros de concordâncias<br>
+Alinhamento das frases nas caixas de diálogos<br>
 Para esse item é necessário 30 caracteres por linha e 5 colunas
 
-# HISTORICO
-Versão 1.0.1
-Efetuado a correção de um bug devido a uma linha a menos do script de textos.
-Corrigido erros de alinhamento do Menu Principal
-Corrigido um erro ao tentar se conectar em uma rede WIfi
+# Historico
+Versão 1.0.1<br>
+Efetuado a correção de um bug devido a uma linha a menos do script de textos.<br>
+Corrigido erros de alinhamento do Menu Principal<br>
+Corrigido um erro ao tentar se conectar em uma rede WIfi<br>
 
-Versão 1.0
+Versão 1.0<br>
 Efetuado a tradução completa do jogo, com base n idioma Inglês.
 
