@@ -1,0 +1,359 @@
+ade
+Kyle Uberman
+Assistente de Teste de Qualidade
+Dennis Constantino
+Testádores de Qualidade
+Nik AhPo
+Sam Carion
+Akash Kumar
+Ryan Lopez
+Colleen Murphy
+Ben Orser
+Edward Parry
+Elizabeth Rodriguez
+Supervisor de Conformidade
+Stephen Akana
+Teste de Conformidade
+Lawrence Mann
+Especialistas de Conformidade
+John Belcher
+Eduardo Camacho
+Joe Floyd
+Júnior Sison
+Compatibilidade Testers
+Christine Letheby
+Austin Storms
+Anthony Williams
+Dominios Técnicos de Laboratório
+Rey Buzon
+Rhianna Kellom
+Chris Rilles
+Scott Sampson
+Ray Vasquez
+Suporte de Hardware
+Eric Benson
+Matt Ellison
+Diálogos Inglês
+Kevin Frane
+Bridget Oates
+Tema Música: Corrida to Win
+Ted Poley
+Jun Senoue
+Takeshi Taneda
+Toru Kawamura
+Backbone Entertainment Vancouver
+Produtor
+Taylor Miller
+Produtor Associado
+Paige Meekison
+Engenheiro Chefe
+Chuck Chow
+Líder de Designer
+Eric Emery
+Artista Principal
+Eric Ronay
+Designer Modo de Batalha 
+Clint Adiante
+Líder de Nível do Designer
+Cory Hasselbach
+Líder de Artes
+Aaron Parrott
+Líder do Projeto Front End
+Giovanni Sasso
+Engenheiros
+Jason Collinge
+Stephane Conde
+Rick Falck
+Colin Fletcher
+Alex Houghton
+Brook Jones
+George Phillips
+Brian Provinciano
+Ryan Thom
+George Wu
+Andrew Zhi
+
+Programação Adicional
+Clinton Blackmore
+Deirdra Kiai
+Tanio Klyce
+Greg Wilson
+Designers
+Kee Won Ahn
+Mike Donovan
+Justin McGuire
+Kyle Mohammed
+Mihir Patel
+Yoni Rabinowitz
+Anat Rabkin
+Craig Williams
+Josh Zisserson
+Artistas
+Vincent Chan
+Mabel Chan
+Eric Cheng
+Anna Fong
+Aaron Hempler
+Shane Holmes
+Victor Kalvachev
+Sean Karemaker
+Carrie McLean
+Matt Osness
+Stephen Pearce
+VYK Global, Inc.
+Cinematico Inc.
+Imperia Media
+Líder Controle de Qualidade
+Mike Coules
+Estúdio Controle de Qualidade
+Jesse Brocksmith
+Eric Spornitz
+Music Composer
+Chris Rezanson
+Audio Director
+Leonard J. Paul
+Design de Som
+Leonard J. Paul
+Matt Piersall
+James Barker
+Lars Korb
+Assistente de Produção
+Tim Quinn
+Diretor Técnico
+Peter Phillips
+Chefe de Estúdio
+Joe Bonar
+Suporte Adicional
+Jay Barber
+Travis Guadan
+Chun-Sin Loh
+Richard Orth
+Agradecimentos Especiais
+James Trudel, Graeme and Lauren Meekison
+Andrea Ishiguro and Gabriel Ishiguro-Ronay
+Stephen Makonin; dedicated to Alison Ferrer
+Joshua, Tiffany, and David Forward
+To Mark, Kelly, Sid: for smiling at how tired I was
+Lindsey Hamlin and Terry Bivens
+Jeff Stewart and Nate Morrison
+Lindsay Parrott
+Johnny Rabino
+In Young Jang and Kyung Pyo Jang
+Marty Hasselbach, Carla St.Pierre, Tara Mustapha
+The Sonic Rivals 1 Team
+4 KIDS Production, Inc
+Dublagem
+Pete Capella
+Kathleen Delaney
+Dan Green
+Jason Griffith
+Amy Palant
+Mike Pollock
+David Willis
+Diretor de Dublagem
+Christopher Collet
+Coordenador de Produção
+Salvatore Oppedisano
+Motores de Gravação
+Suzy Goldish
+Mike Knoblauch
+Agradecimentos Especiais
+Attic - Arcade, inc.
+Masahiro Fukuhara
+Grant Matson
+Yosuke Moriya
+Mina Provonsha
+Sonic Committee
+Sega Europe Limited
+CEO
+Naoya Tsurumi
+President and COO
+Mike Hayes
+Managing Director - Development
+Gary Dunn
+Director of European Marketing
+Gary Knight
+Head of External Development
+Jim Woods
+Head of Publishing
+Nathalie Ranson
+Senior Producer
+Katrin Darolle
+Assistant Producer
+Alex Humphries
+Marketing Manager
+David Corless
+Senior Brand Manager
+Helen Lawson
+Assistant Brand Manager
+Michele Dix
+European PR
+Lynn Daniel
+Kerry Martyn
+Alistair Hatch
+Creative Services
+Alison Peat
+Tom Bingle
+Morgan Gibbons
+Akane Hiraoka
+Arnoud Tempelaere
+Michelle Blake
+Head of Operations
+Mark Simmons
+Purchasing Manager
+Caroline Searle
+Operations
+Natalie Cooke
+Online Creative Manager
+Bennie Booysen
+Senior Online Community Manager
+Romily Broad
+Senior Online Marketing Manager
+Mike Evans
+Online Development Manager
+Nina Ahmad
+Head of Development Services
+Mark Le Breton
+ Localization Manager
+Marta Lois Gonzalez
+ Localization Coordinator
+Giuseppe Rizzo
+Mastering Group
+John Hegarty
+Jigar Patel
+Wayne Quarmby
+Fredrik Redgard
+Roy Boateng
+QA Shift Managers
+Marlon Grant
+Stuart Arrowsmith
+Senior Team Lead
+Ben Curtis
+Dan Jacobs
+QA Team Lead
+Paul Sedgmore
+QA Functional Testers
+Deanne Anderson
+Errol Burke
+Sam Chau
+Melissa Da Costa
+QA Functional Testers
+Sami Hoang
+Kieran O'Donnell
+Nathan Pragasm
+Kasim Rehman
+Language QA Co-ordinator
+Jean-Baptiste Bagot
+Language Team Lead
+Stephan Wolschon
+Language Testers
+Pauline Dansette
+Ricardo Rodriguez
+Tim Tielebier
+Niccolo Montanari
+Standards Co-ordinator
+Mohammed Ajaib
+Assistant Standards Co-ordinator
+Mike Hanley
+Justin Amore
+Standards Testers
+Shiva Allari
+Agradecimentos Especiais
+Ben Barker
+
+
+
+
+
+Apresentado pela
+Corporação SEGA®
+Complete Todos os Desafios
+Derrotas!
+Vitórias!
+Copa Knuckles
+Copa Shadow
+Copa Silver
+Circuito das Copas
+Copa Sonic
+Padrão
+Falha ao Apagar.
+Delete failed.[N][N]The Memory Stick™[N]was removed.
+Destrua %d Badniks!
+Facil
+Dificil
+Normal
+Desafios fáceis concluído
+Cartão de Memória™  não foi encontrado.[N]Você precisa de pelo menos %d KB para salvar os[N]dados dese jogo.[N]Por favor insira um Cartão de Memória™.
+Falha ao Carregar.[N][N]O Cartão de Memória™[N]foi removido durante o processo de carregamento.
+Falha ao Salvar.[N][N]O Cartão de Memória™[N]foi removido durante o processo de salvamento.
+Carregamento com sucesso.
+Salvamento com sucesso.
+Não há dados no Catão de Memória™.
+Carregando…
+Salvando…
+Não desligue o sistema do PSP™[N]ou remova o seu Cartão de Memória™.
+Não foi encontrado espaço em seu Cartão de Memória™.[N]Apague cerca de %d KB ou mais[N]para poder salvar os seus dados.
+[XB] Aceita
+Cancela
+Volta
+Sim
+Não
+Carregamento falhou.[N]Arquivo salvo está corrompido.
+Carregamento falhou.[N]Arquivo corrompido.
+Desconectado da sessão de jogo sem fio.
+Ocorreu um erro de rede.[N]O interruptor WLAN é DESLIGADO.
+Ocorreu um erro de rede.[N]A inicialização da rede falhou.
+Ocorreu um erro de rede.[N]Você foi desconectado da rede.
+Falha ao carregar.[N]O arquivo no Cartão de Memória™ está danificado.
+Tentar novamente
+Tentar Novamente
+Inicializando sessão sem fio por favor aguarde…
+Este jogo salva os dados automaticamente em[N]determinados pontos. [N]Não remova o Cartão de Memória™[N]ou desligue o seu PSP™ quando o[N]Cartão de Memória™ estiver com o indicador piscando.
+Ao iniciar o título, sairá do modo de descanso.[N]Falha ao carregar.
+Continuar sem salvar
+Ao iniciar o título, sairá do modo de descanso.[N]Falha ao salvar.
+O Cartão de Memória™ mudou.[N]Gostaria de salvar seus dados de jogos[N]nesse Cartão de Memória™?
+Não há espaço suficiente no Cartão de Memória™.[N]Você precisa de pelo menos %d KB ou mais de espaço[N]para salvar o jogo.[N][N]Você gostaria de excluir os dados do jogo?
+Se você optar por criar um novo Perfil, o progresso[N] de seu jogo até este ponto não será salvo. [N] Você tem certeza que quer [N] criar um novo Perfil? 
+Ocorreu um erro de rede. Não é possível se conectar a outro jogador.
+Ocorreu um erro de rede. O cliente deixou o jogo.
+Ocorreu um erro de rede. Sessão de jogo já não está disponível.
+Ocorreu um erro de rede. O anfitrião deixou o jogo.
+Falha ao Salvar.[N][N]O Cartão de Memória™ está travado.
+Copa Espio
+Derrotas Espio
+Vitorias Espio
+Você só conseguiu coletar %d/%d Anéis!
+Você só conseguiu destruir %d/%d Badniks!
+Você só conseguiu salvar %d/%d Chao!
+Melhor Tempo:
+Rodada Final
+Terminado!
+Cinco
+Cinco Chao
+Cinco Voltas
+" !""#$%&'()*+,-./0123456789:;<=>?@"
+ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`a
+bcdefghijklmnopqrstuvwxyz{|}~¡¢£¤
+¥¦§¨©ª«¬®¯°±²³ µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆ
+ÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçè
+éêëìíîïðñòóôõö÷øùúûüýþÿ’“„…???
+Jogo Livre
+Zona Desfiladeiro da Fronteira
+Compartilhar Jogo
+Resumo do Jogo Compartilhado
+Resumo do jogo
+Geral
+Está Pronto.
+Global
+Luvas
+Vai!
+StoryMusic_Happy
+Menu Principal
+MODO DEMO
+Entrar
+Entrar no Jogo
+Pulo
+Rei da Montanha
+Knock Out
+Copa Knuckles
